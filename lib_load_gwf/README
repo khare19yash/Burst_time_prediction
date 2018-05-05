@@ -1,0 +1,6 @@
+Library for loading GWF data
+-----------------------------
+
+Files with defined functions:
++ load_gwf.py
+  - print_log(filename): outputs the contents of a GWF log to standard output, line by line 
